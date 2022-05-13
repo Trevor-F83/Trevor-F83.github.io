@@ -17,7 +17,6 @@ GA Project 1
   Colaborators:
  
   Garrett Stephneson
-  Casey Hannon
   
   Future Enhancments:
   Implement Web Audio API and make this a full on sampler with the ability to create your own sounds from scratch. It will have a screen with a wave function. You will be able to manipulate that wave to create your sounds. There will also be pan, gain and other knobs to further customize your sounds.
