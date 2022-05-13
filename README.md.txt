@@ -9,6 +9,8 @@ GA Project 1
   HTML5
   CSS3
   AJAX
+  jQuery
+  UnSplash API
   
   Getting Started:
   https://627e5a21a857990a763b57dd--stately-sable-2ed9e3.netlify.app/
