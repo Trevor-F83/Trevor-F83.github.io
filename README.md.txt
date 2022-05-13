@@ -11,6 +11,7 @@ GA Project 1
   AJAX
   
   Getting Started:
+  https://627e5a21a857990a763b57dd--stately-sable-2ed9e3.netlify.app/
   
   The sounds are bound to the top row of letters on your keyboard. Just start banging away!
   
