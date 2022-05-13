@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"
+        integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous">
+        </script>
+    <link rel="stylesheet" href="./css/style.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bangers&display=swap">
+    <link href="https://fonts.googleapis.com/css2?family=Tapestry&display=swap" rel="stylesheet">
+    <title>Document</title>
+</head>
+
+<body>
+    <main>
+        <div class="container">
+            <div id="snare" src="./audio/snare.wav">Q</div>
+            <div id="closed_high_hat" src="./audio/snare.wav">W</div>
+            <div id="cowbell" src="./audio/cowbell.wav">E</div>
+            <div id="crash" src="./audio/crash.wav">R</div>
+            <div id="floor_tom" src="./audio/floor_tom.wav">T</div>
+            <div id="kick" src="./audio/kick.wav">Y</div>
+            <div id="low_tom" src="./audio/low_tom.wav">U</div>
+            <div id="open_high" src="./audio/open_high _hat.wav">I</div>
+            <div id="ride" src="./audio/ride.wav">O</div>
+            <div id="tom_high" src="./audio/tom_high.wav">P</div>
+        </div>
+        
+        <img id="image" style="position: absolute; width: 100vw; height: 100vh">
+    </main>
+    <audio id="audio" control style="display:none">
+        <source src="./audio/snare.wav" type="audio/wav">
+        <source src="./audio/closed_high_hat.wav" type="audio/wav">
+        <source src="./audio/cowbell.wav" type="audio/wav">
+        <source src="./audio/crash.wav" type="audio/wav">
+        <source src="./audio/floor_tom.wav" type="audio/wav">
+        <source src="./audio/kick.wav" type="audio/wav">
+        <source src="./audio/low_tom.wav" type="audio/wav">
+        <source src="./audio/open_high _hat.wav" type="audio/wav">
+        <source src="./audio/ride.wav" type="audio/wav">
+        <source src="./audio/tom_high.wav" type="audio/wav">
+    </audio>
+
+    <script src="./js/script.js" defer></script>
+</body>
+
+</html>
